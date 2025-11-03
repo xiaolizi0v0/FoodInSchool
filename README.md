@@ -1,6 +1,6 @@
-<h1 style="display: flex; align-items: center; justify-content: center; height: 100px; margin: 0">
-  <img src="./image/logo.png" alt="logo" style="width: 80px; height: auto; "/>
-  <span style="display: flex; align-items: center;height: 100%;">
+<h1 style="display: flex; align-items: center; justify-content: center; height: 100 px; margin: 0">
+  <img src="./image/logo.png" alt="logo" style="width: 80 px; height: auto; "/>
+  <span style="display: flex; align-items: center;height: 100 %;">
     随机校园食物
   </span>
 </h1>
