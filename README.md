@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./image/logo.png" alt="logo" style="width: 80px; vertical-align: middle; margin-right: 10px;">
 </p>
-<h1>随机校园食物</h1>
+<h1 align="center">随机校园食物</h1>
 <p align="center">
   <img src="https://img.shields.io/github/languages/code-size/nanchengcyu/TechMindWave-backend" alt="code size"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen" alt="Spring Boot"/>
