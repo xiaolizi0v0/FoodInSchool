@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./image/logo.png" alt="logo" style="width: 80px; vertical-align: middle; margin-right: 10px;">
+  <img src="./image/logo.png" alt="logo" style="width: 80px; vertical-align: middle; ">
 </p>
 <h1 align="center">随机校园食物</h1>
 <p align="center">
