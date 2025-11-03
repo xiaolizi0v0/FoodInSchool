@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./image/logo.png" alt="logo" style="width: 80px; vertical-align: middle; margin-right: 10px;">
-  <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">随机校园食物</span>
+  <span style="font-size: 4em; font-weight: bold; vertical-align: middle;">随机校园食物</span>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/languages/code-size/nanchengcyu/TechMindWave-backend" alt="code size"/>
