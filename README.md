@@ -1,16 +1,6 @@
-<h1 style="
-  display: flex; 
-  align-items: center; /* 核心：让 logo 和文字容器 整体垂直居中 */
-  justify-content: center; /* 水平居中 */
-  height: 100px; /* 必须！给父容器设置高度，否则 flex 无法体现竖向居中效果 */
-  margin: 0; /* 清除 h1 默认margin，避免布局偏移 */
-">
+<h1 style="display: flex; align-items: center; justify-content: center; height: 100px; margin: 0">
   <img src="./image/logo.png" alt="logo" style="width: 80px; height: auto; "/>
-  <span style="
-    display: flex; 
-    align-items: center; /* 文字在自身容器内垂直居中 */
-    height: 100%; /* 与父容器 h1 高度一致，确保对齐基准统一 */
-  ">
+  <span style="display: flex; align-items: center;height: 100%;">
     随机校园食物
   </span>
 </h1>
@@ -20,8 +10,7 @@
   <img src="https://img.shields.io/github/languages/count/nanchengcyu/TechMindWave-backend" alt="languages"/>
   <img src="https://img.shields.io/badge/Java-8-blue" alt="Java"/>
   <img src="https://img.shields.io/github/last-commit/nanchengcyu/TechMindWave-backend" alt="last commit"/><br>
-    <img src="https://img.shields.io/badge/Created-25.11.03-blue
-" alt="Created Time"/>
+  <img src="https://img.shields.io/badge/Created-25.11.03-blue" alt="Created Time"/>
   <img src="https://img.shields.io/badge/Author-xiaolizi0v0-orange" alt="Author" />
 </p>
 <hr>
