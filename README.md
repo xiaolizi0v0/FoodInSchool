@@ -3,11 +3,11 @@
 </p>
 <h1 align="center">随机校园食物</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/nanchengcyu/TechMindWave-backend" alt="code size"/>
+  <img src="https://img.shields.io/github/languages/code-size/xiaolizi0v0/FoodInSchool" alt="code size"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen" alt="Spring Boot"/>
-  <img src="https://img.shields.io/github/languages/count/nanchengcyu/TechMindWave-backend" alt="languages"/>
+  <img src="https://img.shields.io/github/languages/count/xiaolizi0v0/FoodInSchool" alt="languages"/>
   <img src="https://img.shields.io/badge/Java-8-blue" alt="Java"/>
-  <img src="https://img.shields.io/github/last-commit/nanchengcyu/TechMindWave-backend" alt="last commit"/><br>
+  <img src="https://img.shields.io/github/last-commit/xiaolizi0v0/FoodInSchool" alt="last commit"/><br>
   <img src="https://img.shields.io/badge/Created-25.11.03-blue" alt="Created Time"/>
   <img src="https://img.shields.io/badge/Author-xiaolizi0v0-orange" alt="Author" />
 </p>
