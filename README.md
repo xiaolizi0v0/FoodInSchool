@@ -1,0 +1,1 @@
+<h1 align="center">随机校园食物</h1>
